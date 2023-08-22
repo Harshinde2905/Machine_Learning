@@ -1,2 +1,2 @@
 # Machine_Learning
-Machine Learning Models, practical implementations and much more.
+Machine Learning model, practical implementations and much more.
